@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+langchain
+langchain_groq
+langchain_objectbox
+langchain_community
+PyPDF2
+ollama
+objectbox
